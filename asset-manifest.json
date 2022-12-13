@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/diogoalmeida/static/css/main.073c9b0a.css",
-    "main.js": "/diogoalmeida/static/js/main.9c7b3580.js",
-    "static/js/787.28cb0dcd.chunk.js": "/diogoalmeida/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/diogoalmeida/index.html",
-    "main.073c9b0a.css.map": "/diogoalmeida/static/css/main.073c9b0a.css.map",
-    "main.9c7b3580.js.map": "/diogoalmeida/static/js/main.9c7b3580.js.map",
-    "787.28cb0dcd.chunk.js.map": "/diogoalmeida/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/diogoalmeida/src/static/css/main.073c9b0a.css",
+    "main.js": "/diogoalmeida/src/static/js/main.6a1cbc0b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/diogoalmeida/src/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/diogoalmeida/src/index.html",
+    "main.073c9b0a.css.map": "/diogoalmeida/src/static/css/main.073c9b0a.css.map",
+    "main.6a1cbc0b.js.map": "/diogoalmeida/src/static/js/main.6a1cbc0b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/diogoalmeida/src/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9c7b3580.js"
+    "static/js/main.6a1cbc0b.js"
   ]
 }

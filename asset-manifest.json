@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/diogoalmeida/static/css/main.073c9b0a.css",
-    "main.js": "/diogoalmeida/static/js/main.9c7b3580.js",
+    "main.css": "/diogoalmeida/static/css/main.f0c3ace0.css",
+    "main.js": "/diogoalmeida/static/js/main.dd76ebc5.js",
     "static/js/787.28cb0dcd.chunk.js": "/diogoalmeida/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/diogoalmeida/index.html",
-    "main.073c9b0a.css.map": "/diogoalmeida/static/css/main.073c9b0a.css.map",
-    "main.9c7b3580.js.map": "/diogoalmeida/static/js/main.9c7b3580.js.map",
+    "main.f0c3ace0.css.map": "/diogoalmeida/static/css/main.f0c3ace0.css.map",
+    "main.dd76ebc5.js.map": "/diogoalmeida/static/js/main.dd76ebc5.js.map",
     "787.28cb0dcd.chunk.js.map": "/diogoalmeida/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.9c7b3580.js"
+    "static/css/main.f0c3ace0.css",
+    "static/js/main.dd76ebc5.js"
   ]
 }
